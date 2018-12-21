@@ -15,4 +15,10 @@ git checkout <branchname> #to navigate to other branch#
 git merge <source branch>#get all content to destination branch#
 git diff <source branch> <destination branch> # to see the difference when a merge conflicts appears#
 git status #to check the status of your repository#
+git log #to check the commit logs#
+git log --oneline #to check commit logs id only#
+git checkout file name #to clear the accidentally added content to a file after adding to staging area#
+git reset commit id #to reset accidentally made commit#
+git reset hard commit id #to reset the entire history of the commit#
+
 
