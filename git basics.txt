@@ -6,3 +6,5 @@ now the modifications in this repository will be tracked
 to practice:
 add files using touch 
 
+git log --oneline #to get the information of the commits in oneline#
+git show <commit id obtained from git log> #to look what happpened in particular commit#
