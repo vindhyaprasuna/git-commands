@@ -9,3 +9,6 @@ add files using touch
 git log --oneline #to get the information of the commits in oneline#
 
 git show <commit id obtained from git log> #to look what happpened in particular commit#
+git branch #to list the available branches#
+git branch <branch name> #to create a branch#
+
