@@ -11,6 +11,8 @@ git log --oneline #to get the information of the commits in oneline#
 git show <commit id obtained from git log> #to look what happpened in particular commit#
 git branch #to list the available branches#
 git branch <branch name> #to create a branch#
-git checkout branchname #to navigate to other branch#
-git merge source branch#get all content to destination branch#
+git checkout <branchname> #to navigate to other branch#
+git merge <source branch>#get all content to destination branch#
+git diff <source branch> <destination branch> # to see the difference when a merge conflicts appears#
+git status #to check the status of your repository#
 
