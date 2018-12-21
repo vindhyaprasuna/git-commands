@@ -1,0 +1,8 @@
+git init #to make any directory as a git repository#
+git config --global user.name "your user name"  #configuring username to be used with commit#
+git congig --global user.email "your email id"   #configuring mail id to be used with commit#
+git clone copied url #to obtain a remote repository locally from an existing url#
+now the modifications in this repository will be tracked 
+to practice:
+add files using touch 
+
